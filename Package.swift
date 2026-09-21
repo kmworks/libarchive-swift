@@ -29,7 +29,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "CArchive",
-            url: "https://github.com/everpcpc/libarchive-swift/releases/download/\(packageVersion)/CArchive.xcframework.zip",
+            url: "https://github.com/kmworks/libarchive-swift/releases/download/\(packageVersion)/CArchive.xcframework.zip",
             checksum: cArchiveChecksum
         ),
         .testTarget(

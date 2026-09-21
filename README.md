@@ -7,14 +7,14 @@ Swift Package wrapper for [libarchive](https://github.com/libarchive/libarchive)
 Add this package in Xcode:
 
 ```text
-https://github.com/everpcpc/libarchive-swift
+https://github.com/kmworks/libarchive-swift
 ```
 
 Or add it to `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/everpcpc/libarchive-swift", from: "0.1.6"),
+    .package(url: "https://github.com/kmworks/libarchive-swift", from: "0.1.6"),
 ]
 ```
 
